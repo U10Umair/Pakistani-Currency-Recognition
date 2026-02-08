@@ -1,4 +1,4 @@
-# Day 01 – Dataset Setup & Image Loading
+# Day 02 – Dataset Setup & Image Loading
 
 ## Objective
 Set up Google Colab and verify access to the Pakistani currency dataset stored in Google Drive.
